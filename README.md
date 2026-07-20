@@ -9,7 +9,7 @@
 [![Latest release](https://img.shields.io/github/v/release/DevilTekGame/Arkhanths-Releases?label=latest&color=9b93ff)](https://github.com/DevilTekGame/Arkhanths-Releases/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/DevilTekGame/Arkhanths-Releases/total?color=9b93ff)](https://github.com/DevilTekGame/Arkhanths-Releases/releases)
 
-### [Download the latest version](https://github.com/DevilTekGame/Arkhanths-Releases/releases/latest)
+These links always give you the newest version — re-download any time to update.
 
 </div>
 
@@ -19,7 +19,7 @@
 
 | | |
 | --- | --- |
-| **Download** | `Arkhanths_x.x.x_x64-setup.exe` (recommended) or `Arkhanths_x.x.x_x64_en-US.msi` |
+| **Download** | [**Arkhanths-setup.exe**](https://github.com/DevilTekGame/Arkhanths-Releases/releases/latest/download/Arkhanths-setup.exe) (recommended) or [Arkhanths.msi](https://github.com/DevilTekGame/Arkhanths-Releases/releases/latest/download/Arkhanths.msi) |
 | **Install** | Run the setup and follow the prompts |
 | **Requirements** | Windows 10 or later. WebView2 is installed automatically if missing |
 
@@ -27,15 +27,15 @@
 
 | | |
 | --- | --- |
-| **Ubuntu / Debian / Mint** | `Arkhanths_x.x.x_amd64.deb` — install with `sudo apt install ./Arkhanths_x.x.x_amd64.deb` |
-| **Fedora / openSUSE** | `Arkhanths-x.x.x-1.x86_64.rpm` — install with `sudo dnf install ./Arkhanths-x.x.x-1.x86_64.rpm` |
-| **Any distro** | `Arkhanths_x.x.x_amd64.AppImage` — no install needed: `chmod +x` the file and run it |
+| **Ubuntu / Debian / Mint** | [**Arkhanths.deb**](https://github.com/DevilTekGame/Arkhanths-Releases/releases/latest/download/Arkhanths.deb) — install with `sudo apt install ./Arkhanths.deb` |
+| **Fedora / openSUSE** | [**Arkhanths.rpm**](https://github.com/DevilTekGame/Arkhanths-Releases/releases/latest/download/Arkhanths.rpm) — install with `sudo dnf install ./Arkhanths.rpm` |
+| **Any distro** | [**Arkhanths.AppImage**](https://github.com/DevilTekGame/Arkhanths-Releases/releases/latest/download/Arkhanths.AppImage) — no install needed: `chmod +x Arkhanths.AppImage` and run |
 
 ## macOS
 
 | | |
 | --- | --- |
-| **Download** | `Arkhanths_x.x.x_universal.dmg` — one file for both Apple Silicon and Intel |
+| **Download** | [**Arkhanths.dmg**](https://github.com/DevilTekGame/Arkhanths-Releases/releases/latest/download/Arkhanths.dmg) — one file for both Apple Silicon and Intel |
 | **Install** | Open the DMG and drag Arkhanths to Applications |
 | **First launch** | Right-click the app and choose **Open** (the app is not yet notarized by Apple) |
 
