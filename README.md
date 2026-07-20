@@ -39,6 +39,14 @@ These links always give you the newest version — re-download any time to updat
 | **Install** | Open the DMG and drag Arkhanths to Applications |
 | **First launch** | Right-click the app and choose **Open** (the app is not yet notarized by Apple) |
 
+## Android
+
+| | |
+| --- | --- |
+| **Download** | [**Arkhanths.apk**](https://github.com/DevilTekGame/Arkhanths-Releases/releases/latest/download/Arkhanths.apk) |
+| **Install** | Open the downloaded APK on your phone; allow **Install unknown apps** if prompted |
+| **Requirements** | Android 8.0 or later |
+
 ---
 
 ## Keyboard shortcuts
