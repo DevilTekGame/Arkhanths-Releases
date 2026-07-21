@@ -58,6 +58,7 @@ These links always give you the newest version — re-download any time to updat
 | F3 | FAQ & Guides |
 | F4 | Support |
 | F5 | Reload |
+| F8 | Settings |
 | F11 | Toggle fullscreen |
 | F12 | Log off |
 | Escape | Quit |
